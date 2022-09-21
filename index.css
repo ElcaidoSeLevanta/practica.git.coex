@@ -1,0 +1,13 @@
+section{
+    position: relative;
+    height: 1000px;
+    background: url("./HD\ wallpaper_\ Jujutsu\ Kaisen\,\ Gojo\ Satoru.jpg");
+    background-size:cover ;
+}
+
+div{
+    position:absolute;
+    color: white;
+    background-color: black;
+    top: 30%;
+}
